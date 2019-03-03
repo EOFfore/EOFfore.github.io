@@ -1,0 +1,49 @@
+body{
+    background-image: url("../images/home_backgrand.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    min-height:1050px;
+}
+#div_title{
+    font-size: 40px;
+    text-align: center;
+
+}
+
+#table_infor {
+    color: #000000;
+    font: 18px arial;
+    border: solid;
+    text-align: left;
+}
+#a_ico{
+    padding: 1em 1.5em 1em 1em;
+    color: #9199aa;
+    background: url(../images/team.ico) no-repeat 30px 40px;
+
+
+}
+#div_infor{
+    margin-left: 40px;
+}
+#team_infor{
+    font: 20px arial;
+    margin-left: 40px;
+     margin-top: 8%;
+
+}
+
+#p_teammates{
+     font: 20px arial;
+}
+#div_task{
+     font: 20px arial;
+     margin-left: 40px;
+}
+
+#table_task {
+    color: #000000;
+    font: 18px arial;
+    border: solid;
+    text-align: left;
+}
