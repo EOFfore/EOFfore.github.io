@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT ENTER_NAME_OF_ROOT_ELEMENT_HERE EMPTY>
+<!ELEMENT film (information+,res*,mark,person+)>
+<!ELEMENT information (name,type+,poster,brief,duration,production+,show)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT poster (#PCDATA)>
+<!ELEMENT brief (#PCDATA)>
+<!ELEMENT duration (#PCDATA)>
+<!ELEMENT production (#PCDATA)>
+<!ELEMENT show (#PCDATA)>
+<!ATTLIST show country CDATA #FIXED "China">
+<!ELEMENT res (#PCDATA)>
+<!ELEMENT mark (#PCDATA)>
+<!ELEMENT person (director+,actor+)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT actor (#PCDATA)>
