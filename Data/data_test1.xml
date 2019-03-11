@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!--<!DOCTYPE film SYSTEM "verify.dtd">-->
+<!DOCTYPE film SYSTEM "verify.dtd">
 <film>
     <information>
         <name>驯龙高手3</name>
@@ -10,8 +10,9 @@
             　　统领伯克岛的酋长嗝嗝，与阿丝翠德共同打造了一个奇妙而热闹的飞龙乌托邦。而一只雌性光煞飞龙的意外出现，加上一个前所未有的威胁的到来，令嗝嗝和没牙仔不得不离开自己唯一的家园，前往他们本以为只存在于神话之中的隐秘之境。在发现自己真正的命运之后，飞龙与骑士将携手殊死奋战，保护他们所珍爱的一切
         </brief>
         <duration>104分钟</duration>
-        <country>美国</country>
-        <show 国家="China">2019-03-01</show>
+        <production>美国</production>
+        <showDate country="China">2019-03-01</showDate>
+
     </information>
     <res>https://movie.douban.com/trailer/243864/#content</res>
     <mark>7.6</mark>
@@ -32,8 +33,8 @@
             饰）在内，虽然一家人游走在贫困和违法的边缘，但笃深的羁绊将他们紧紧联系在一起，使他们的心不会随着冰冷的都市而寒冷下去……
         </brief>
         <duration>117分钟</duration>
-        <country>日本</country>
-        <show 国家="China">2018-08-03</show>
+        <production>日本</production>
+        <showDate country="China">2018-08-03</showDate>
     </information>
     <res>https://movie.douban.com/trailer/234451/#content</res>
     <mark>8.7</mark>
@@ -55,8 +56,8 @@
             饰）所设立的机动球比赛中，最终获得冠军的人能够获得前往撒冷生活的资格，阿丽塔决定利用自己的格斗天赋参加比赛，却被卷入了一个巨大的阴..
         </brief>
         <duration>122分钟</duration>
-        <country>美国 / 加拿大 / 阿根廷</country>
-        <show 国家="China">2019-02-22</show>
+        <production>美国 / 加拿大 / 阿根廷</production>
+        <showDate country="China">2019-02-22</showDate>
     </information>
     <res>https://movie.douban.com/trailer/241829/#content</res>
     <mark>7.6</mark>
@@ -76,8 +77,8 @@
             　　绿皮书，是一本专为黑人而设的旅行指南，标注了各城市中允许黑人进入的旅店、餐馆。电影由真实故事改编。
         </brief>
         <duration>130分钟</duration>
-        <country>美国</country>
-        <show 国家="China">2019-03-01</show>
+        <production>美国</production>
+        <showDate country="China">2019-03-01</showDate>
     </information>
     <res>https://movie.douban.com/trailer/243698/#content</res>
     <mark>8.9</mark>
@@ -98,8 +99,8 @@
             饰）的运输车，结果不仅遭到逮捕，还遭遇了全球发动机停摆的事件。为了修好发动机，阻止地球坠入木星，全球开始展开饱和式营救，连刘启他们的车也被强征加入。在与时间赛跑的过程中，无数的人前仆后继，奋不顾身，只为延续百代子孙生存的希望……
         </brief>
         <duration>125分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242330/#content</res>
     <mark>7.9</mark>
@@ -118,8 +119,8 @@
             曾经在赛车界叱咤风云、如今却只能经营炒饭大排档的赛车手张驰（沈腾饰）决定重返车坛挑战年轻一代的天才。然而没钱没车没队友，甚至驾照都得重新考，这场笑料百出不断被打脸的复出之路，还有更多哭笑不得的窘境在等待着这位过气车神…
         </brief>
         <duration>98分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242838/#content</res>
     <mark>7.0</mark>
@@ -138,8 +139,8 @@
             饰），经营着各自惨淡的“事业”，然而“天外来客”的意外降临，打破了二人平静又拮据的生活。神秘的西方力量也派出“哼哈二将”在全球搜查外星人行踪。啼笑皆非的跨物种对决，别开生面的“星战”，在中国某海边城市激情上演
         </brief>
         <duration>116分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/241313/#content</res>
     <mark>6.4</mark>
@@ -160,8 +161,8 @@
             一场关于守护与成长、爱与勇气的冒险，拉开序幕…
         </brief>
         <duration>88分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242618/#content</res>
     <mark>6.5</mark>
@@ -181,8 +182,8 @@
             朝夕相处中，直树渐渐被湘琴乐观的无畏精神吸引，他开始怀疑：湘琴究竟是人生偏差、还是自己的命中注定?
         </brief>
         <duration>122分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-14</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-14</showDate>
     </information>
     <res>https://movie.douban.com/trailer/243147/#content</res>
     <mark>5.3</mark>
@@ -204,8 +205,8 @@
             原来，在这个钟鸣鼎食的家族背后，隐藏着一段让人唏嘘扼腕的爱恨情仇。
         </brief>
         <duration>88分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-22</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-22</showDate>
     </information>
     <res>https://movie.douban.com/trailer/243361/#content</res>
     <mark>暂无</mark>
@@ -228,8 +229,8 @@
             如梦陷入艰难抉择...
         </brief>
         <duration>91分钟</duration>
-        <country>中国大陆 / 香港</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆 / 香港</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242605/#content</res>
     <mark>5.8</mark>
@@ -251,8 +252,8 @@
             　　这一晚，一个关于爱情、友情、亲情的纠葛往事，在父亲、朋友与情人不同的记忆拼凑下，这出陈年的真相呼之欲出.....
         </brief>
         <duration>100分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-03-01</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-03-01</showDate>
     </information>
     <res>暂无</res>
     <mark>暂无</mark>
@@ -269,8 +270,8 @@
         <poster>https://movie.douban.com/subject/27039378/photos?type=R</poster>
         <brief>影片讲述梦想成为director的淳朴青年健司（坂口健太郎 饰），和从黑白电影中“穿越而出”，现身于健司面前的美雪公主（绫濑遥 饰）之间的纯情恋爱故事。</brief>
         <duration>109分钟</duration>
-        <country>日本</country>
-        <show 国家="China">2019-02-14</show>
+        <production>日本</production>
+        <showDate country="China">2019-02-14</showDate>
     </information>
     <res>https://movie.douban.com/trailer/243139/#content</res>
     <mark>7.2</mark>
@@ -289,8 +290,8 @@
             廉政公署一宗经历多年调查的严重非法内销行贿案件，竟因首被告理达贸易集团负责人陈超群弃保潜逃，以及唯一重要证人兼举报者，理达的前任财务总监许植尧（张家辉饰）缺席出庭作证，导致法庭勒令延审一星期！为了7天后案件顺利重审，ICAC展开全面行动。负责此案的队长陈敬慈（刘青云饰）和负责寻找证人的江雪儿（林嘉欣饰）原是廉政公署一对恩爱夫妻，如今已分居多时，为了案件不得不联手合作。在抓捕陈超群和寻找许植尧的过程中两人都意外发现他们背后隐藏的另一重身份。一个谜团的解开是另一个谜团的开启，背后的阴谋远远超出所有人的想象，烟幕笼罩下光明之路在何方？
         </brief>
         <duration>114分钟</duration>
-        <country>香港 / 中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>香港 / 中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242441/#content</res>
     <mark>5.5</mark>
@@ -307,8 +308,8 @@
         <poster>https://movie.douban.com/subject/27065898/photos?type=R</poster>
         <brief>一代文豪蒲松龄（成龙饰）执阴阳判化身神探，与捕快严飞（林柏宏饰）联手追踪金华镇少女失踪案。蒲松龄带领“猪狮虎”“屁屁”“忘忧”“千手”等一众小妖深入案情，在找寻真相的过程中，牵扯出一段旷世奇恋。</brief>
         <duration>108分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242374/#content</res>
     <mark>4.1</mark>
@@ -329,8 +330,8 @@
             　　他们合力与恶势力展开斗争……
         </brief>
         <duration>116分钟(中国大陆) / 117分钟(美国)</duration>
-        <country>美国</country>
-        <show 国家="China">2018-12-21</show>
+        <production>美国</production>
+        <showDate country="China">2018-12-21</showDate>
     </information>
     <res>https://movie.douban.com/trailer/240540/#content</res>
     <mark>8.7</mark>
@@ -339,4 +340,281 @@
         <director>鲍勃·佩尔西凯蒂 / 彼得·拉姆齐 / 罗德尼·罗斯曼</director>
         <actor>沙梅克·摩尔 / 杰克·约翰逊 / 海莉·斯坦菲尔德 / 马赫沙拉·阿里 / 布莱恩·泰里·亨利</actor>
     </person>
+
+
+
+
+    <information>
+        <name>我不是药神</name>
+        <type>剧情 / 喜剧</type>
+        <poster>https://movie.douban.com/subject/26752088/photos?type=R</poster>
+        <brief>普通中年男子程勇（徐峥 饰）经营着一家保健品店，失意又失婚。不速之客吕受益（王传君 饰）的到来，让他开辟了一条去印度买药做“代购”的新事业，虽然困难重重，但他在这条“买药之路”上发现了商机，一发不可收拾地做起了治疗慢粒白血病的印度仿制药独家代理商。赚钱的同时，他也认识了几个病患及家属，为救女儿被迫做舞女的思慧（谭卓 饰）、说一口流利“神父腔”英语的刘牧师（杨新鸣 饰），以及脾气暴烈的“黄毛”（章宇 饰），几个人合伙做起了生意，利润倍增的同时也危机四伏。程勇昔日的小舅子曹警官（周一围 饰）奉命调查仿制药的源头，假药贩子张长林（王砚辉 饰）和瑞士正牌医药代表（李乃文 饰）也对其虎视眈眈，生意逐渐变成了一场关于救赎的拉锯战。
+　　本片改编自慢粒白血病患者陆勇代购抗癌药的真实事迹。
+        </brief>
+        <duration>117分钟</duration>
+        <production>中国大陆</production>
+        <showDate country="China">2018-07-05</showDate>
+    </information>
+    <res>https://movie.douban.com/trailer/233315/#content</res>
+    <mark>9.0</mark>
+
+    <person>
+        <director>文牧野</director>
+        <actor> 徐峥 / 王传君 / 周一围 / 谭卓 / 章宇</actor>
+    </person>
+
+    <information>
+    <name>头号玩家</name>
+    <type>动作 / 科幻 / 冒险</type>
+    <poster>https://movie.douban.com/subject/4920389/photos?type=R</poster>
+    <brief>故事发生在2045年，虚拟现实技术已经渗透到了人类生活的每一个角落。詹姆斯哈利迪（马克·里朗斯 Mark Rylance 饰）一手建造了名为“绿洲”的虚拟现实游戏世界，临终前，他宣布自己在游戏中设置了一个彩蛋，找到这枚彩蛋的人即可成为绿洲的继承人。要找到这枚彩蛋，必须先获得三把钥匙，而寻找钥匙的线索就隐藏在詹姆斯的过往之中。
+　　韦德（泰尔·谢里丹 Tye Sheridan 饰）、艾奇（丽娜·维特 Lena Waithe 饰）、大东（森崎温 饰）和修（赵家正 饰）是游戏中的好友，和之后遇见的阿尔忒弥斯（奥利维亚·库克 Olivia Cooke 饰）一起，五人踏上了寻找彩蛋的征程。他们所要对抗的，是名为诺兰索伦托（本·门德尔森 Ben Mendelsohn 饰）的大资本家。
+    </brief>
+    <duration>140分钟</duration>
+    <production>美国</production>
+    <showDate country="China"></showDate>
+</information>
+<res>https://movie.douban.com/trailer/229187/#content</res>
+<mark>8.7</mark>
+
+<person>
+    <director>史蒂文·斯皮尔伯格</director>
+    <actor>泰伊·谢里丹 / 奥利维亚·库克 / 本·门德尔森 / 马克·里朗斯 / 丽娜·维特</actor>
+</person>
+
+
+    <information>
+    <name>西虹市首富</name>
+    <type>喜剧</type>
+    <poster>https://img1.doubanio.com/view/photo/raw/public/p2529206747.jpg</poster>
+    <brief>西虹市丙级球队大翔队的守门员王多鱼（沈腾 饰）因比赛失利被教练开除，一筹莫展之际王多鱼突然收到神秘人士金老板（张晨光 饰）的邀请，被告知自己竟然是保险大亨王老太爷（李立群 饰）的唯一继承人，遗产高达百亿！但是王老太爷给出了一个非常奇葩的条件，那就是要求王多鱼在一个月内花光十亿，还不能告诉身边人，否则失去继承权。王多鱼毫不犹豫签下了“军令状”，与好友庄强（张一鸣 饰）以及财务夏竹（宋芸桦 饰）一起开启了“挥金之旅”，即将成为西虹市首富的王多鱼，第一次感受到了做富人的快乐，同时也发现想要挥金如土实在没有那么简单！
+    </brief>
+    <duration>118分钟</duration>
+    <production>中国大陆</production>
+    <showDate country="China">2018-07-27</showDate>
+</information>
+<res>https://movie.douban.com/trailer/234328/#content</res>
+<mark>6.5</mark>
+
+<person>
+    <director> 闫非 / 彭大魔</director>
+    <actor>沈腾 / 宋芸桦 / 张一鸣 / 张晨光 / 常远</actor>
+</person>
+
+    <information>
+    <name>一出好戏</name>
+    <type>剧情 / 喜剧</type>
+    <poster>https://movie.douban.com/subject/26985127/photos?type=R</poster>
+    <brief>马进欠下债务，与远房表弟小兴在底层社会摸爬滚打，习惯性的买彩票，企图一夜暴富，并迎娶自己的同事姗姗。一日，公司全体员工出海团建，途中，马进收到了彩票中头奖的信息，六千万！就在马进狂喜自己翻身的日子终于到来之际，一场突如其来的滔天巨浪打破了一切。苏醒过来的众人发现身处荒岛 ，丧失了一切与外界的联系……
+    </brief>
+    <duration>134分钟</duration>
+    <production>中国大陆</production>
+    <showDate country="China">2018-08-10</showDate>
+</information>
+<res>https://movie.douban.com/trailer/234740/#content</res>
+<mark>7.1</mark>
+
+<person>
+    <director>黄渤</director>
+    <actor> 黄渤 / 舒淇 / 王宝强 / 张艺兴 / 于和伟 </actor>
+</person>
+
+    <information>
+    <name>头号玩家</name>
+    <type>剧情 / 喜剧 / 同性</type>
+    <poster>https://img3.doubanio.com/view/photo/raw/public/p2546961193.jpg</poster>
+    <brief>刘三莲（谢盈萱 饰）在丈夫宋正远（陈如山 饰）去世后，发现宋正远将保险理赔金留给了自己的恋人——一个叫阿杰的男人（邱泽 饰）。她决定带着儿子宋呈希（黄圣球 饰）上门讨要说法，宋呈希却在与三莲大吵一架后，选择住进阿杰家。随着他们人生全貌的缓缓揭开，这个故事的底色也渐渐显露出来。
+    </brief>
+    <duration>100分钟</duration>
+    <production>台湾</production>
+    <showDate country="China">2018-04-22</showDate>
+</information>
+<res>https://movie.douban.com/trailer/242434/#content</res>
+<mark>8.6</mark>
+
+<person>
+    <director> 徐誉庭 / 许智彦</director>
+    <actor> 邱泽 / 谢盈萱 / 陈如山 / 黄圣球 / 周洺甫</actor>
+</person>
+
+    <information>
+    <name>无双</name>
+    <type>剧情 / 动作 / 犯罪</type>
+    <poster>https://movie.douban.com/subject/26425063/photos?type=R</poster>
+    <brief>身陷囹圄的李问（郭富城 饰）被引渡回港，他原本隶属于一个的跨国假钞制贩组织。该组织曾犯下过多宗恶性案件，而首脑“画家”不仅始终逍遥法外，连真面目都没人知道。为了逼迫李问吐露“画家”真实身份，警方不惜用足以判死刑的假罪证使其就范。就在此时，富有的遗孀阮文（张静初 饰）申请保释李问，而警方提出的条件依然是“画家”的真面目。
+　　原来早在十数年前，李问和阮文是一对画家情侣，无奈女友的作品受人青睐，李问的画作却被贬得一文不值。就在此困顿期间，他制作假画的才能被“画家”（周润发 饰）发掘，进而成为对方美元假币团伙中的一员…
+    </brief>
+    <duration>130分钟</duration>
+    <production>中国大陆 / 香港</production>
+    <showDate country="China">2018-09-30</showDate>
+</information>
+<res>https://movie.douban.com/trailer/237731/#content</res>
+<mark>8.1</mark>
+
+<person>
+    <director>庄文强</director>
+    <actor>周润发 / 郭富城 / 张静初 / 冯文娟 / 廖启智</actor>
+</person>
+
+    <information>
+    <name>蚁人2：黄蜂女现身</name>
+    <type>动作 / 科幻 / 冒险</type>
+    <poster>https://movie.douban.com/subject/26636712/photos?type=R</poster>
+    <brief>由于在“内战”中站到了美国队长一方，蚁人斯科特·朗（保罗·路德 Paul Rudd 饰）遭到了FBI的禁足惩罚。眼看离真正的自由还有几天功夫，偏偏麻烦找上门来。原来初代蚁人汉克·皮姆（迈克尔·道格拉斯 Michael Douglas 饰）通过研究发现，他的妻子黄蜂女（米歇尔·菲佛 Michelle Pfeiffer 饰）一定还活在量子领域，而斯科特是能够将妻子带回现实世界的唯一希望。不由分说，汉克的女儿霍普（伊万杰琳·莉莉 Nicole Lilly 饰）将斯科特带出房间。此后不久，他们不仅要躲避FBI的纠缠，更要提防来自神秘势力的袭击，而“幽灵”的出现更将斯科特等人带向前所未有的混乱当中。
+　　斯科特能否顺利获得自由？初代黄蜂女是否还存活在量子领域的某处？
+    </brief>
+    <duration>118分钟 / 119分钟(中国大陆)</duration>
+    <production>美国</production>
+    <showDate country="China">2018-08-24</showDate>
+</information>
+<res>https://movie.douban.com/trailer/234679/#content</res>
+<mark>7.3</mark>
+
+<person>
+    <director> 佩顿·里德</director>
+    <actor>保罗·路德 / 伊万杰琳·莉莉 / 迈克尔·佩纳 / 汉娜·乔恩-卡门 / 沃尔顿·戈金斯 </actor>
+</person>
+
+    <information>
+    <name>谁先爱上他的</name>
+    <type>喜剧</type>
+    <poster>https://movie.douban.com/subject/27119586/photos?type=R</poster>
+    <brief>
+        刘三莲（谢盈萱 饰）在丈夫宋正远（陈如山 饰）去世后，发现宋正远将保险理赔金留给了自己的恋人——一个叫阿杰的男人（邱泽 饰）。她决定带着儿子宋呈希（黄圣球 饰）上门讨要说法，宋呈希却在与三莲大吵一架后，选择住进阿杰家。随着他们人生全貌的缓缓揭开，这个故事的底色也渐渐显露出来。
+    </brief>
+    <duration>100分钟</duration>
+    <production>中国</production>
+    <showDate country="China"></showDate>
+</information>
+<res>https://movie.douban.com/subject/27119586/</res>
+<mark>8.6</mark>
+
+<person>
+    <director> 徐誉庭 / 许智彦</director>
+    <actor> 邱泽 / 谢盈萱 / 陈如山 / 黄圣球 / 周洺甫</actor>
+</person>
+
+    <information>
+    <name>波西米亚狂想曲</name>
+    <type>剧情</type>
+    <poster>https://movie.douban.com/subject/5300054/photos?type=R</poster>
+    <brief>
+        本片是对皇后乐队、传奇主唱弗雷迪·莫库里以及他们音乐的致敬盛宴，这是一段充满爱、痛苦、接纳和音乐的旅程。
+　　弗雷迪·莫库里（拉米·马雷克 饰）曾是希思罗机场的一名普通搬运工，对音乐满腔热血的他，与布莱恩·梅（格威利姆·李 饰）、罗杰·泰勒（本·哈迪 饰）、约 翰·迪肯（约瑟夫·梅泽罗 饰）组成皇后乐队。这个殿堂级乐队的从无到有，从疏离到重聚，从低谷到巅峰，仿佛就是弗雷迪一生的缩影。在最后的日子里，弗雷迪做了生命中最重要的决定——在音乐史上最伟大的“拯救生命”大型摇滚乐演唱会上，将所有热血付诸于歌声
+    </brief>
+    <duration>
+        135分钟
+    </duration>
+    <production>美国</production>
+    <showDate country="China">2019-03-22</showDate>
+</information>
+<res>https://movie.douban.com/subject/5300054/</res>
+<mark>8.6</mark>
+
+<person>
+    <director> 布莱恩·辛格</director>
+    <actor> 拉米·马雷克 / 本·哈迪 / 约瑟夫·梅泽罗 / 格威利姆·李 / 艾伦·里奇</actor>
+</person>
+
+    <information>
+    <name>调音师</name>
+    <type>悬疑</type>
+    <poster>https://movie.douban.com/subject/30334073/photos?type=R</poster>
+    <brief>
+        印度影片《调音师》改编自2010年的同名法国高分悬疑短片。故事讲述了一直假装盲人的钢琴调音师阿卡什（Akash），在意外成为一起凶杀案的唯一“目击证人”后，所遭遇的种种出其不意的经历。影片故事波折惊奇，反转不断，是2018年度IMDb评分最高的印度影片。
+    </brief>
+    <duration>139分钟</duration>
+    <production>印度</production>
+    <showDate country="China">2019-04</showDate>
+</information>
+<res>https://movie.douban.com/subject/30334073/</res>
+<mark>8.7</mark>
+
+<person>
+    <director> 斯里兰姆·拉</director>
+    <actor> 阿尤斯曼·库拉纳 / 塔布 / 拉迪卡·艾普特 / 安尔·德霍万 / 马纳夫·维</actor>
+</person>
+
+    <information>
+    <name>摇摆狂潮</name>
+    <type>战争</type>
+    <poster>https://movie.douban.com/subject/27042467/photos?type=R</poster>
+    <brief>
+        叛逆青年奇秀在战俘营中被美国大兵的踢踏舞深深吸引，于是加入了名为“Swing Kids”的舞团。然而，只想在战俘营中尽情跳舞的小小梦想，却让这群不分南北阵营与国籍的舞者身陷危机…
+    </brief>
+    <duration>133分钟</duration>
+    <production>韩国</production>
+    <showDate country="China"></showDate>
+</information>
+<res>叛逆青年奇秀在战俘营中被美国大兵的踢踏舞深深吸引，于是加入了名为“Swing Kids”的舞团。然而，只想在战俘营中尽情跳舞的小小梦想，却让这群不分南北阵营与国籍的舞者身陷危机…</res>
+<mark>8.3</mark>
+
+<person>
+    <director>姜炯哲</director>
+    <actor> 都暻秀 / 朴慧秀 / 吴政世 / 金民浩 / 朴真珠</actor>
+
+</person>
+
+
+
+     <information>
+    <name>宠儿</name>
+    <type>传记</type>
+    <poster>https://movie.douban.com/subject/26628282/photos?type=R</poster>
+    <brief>
+        　设定在18世纪早期的英格兰，讲述关于宫廷阴谋、激情、嫉妒和背叛的故事：大不列颠王国的安妮女王(奥利维娅·科尔曼)与她的知己、顾问、秘密情人公爵夫人萨拉· 丘吉尔(瑞切尔·薇姿)的关系因后者的一位年轻远方亲戚(艾玛·斯通)到来而被搅得翻天地覆，各位女性为争夺女王的青睐和获得宫廷影响力而展开了激烈的斗争。
+    </brief>
+    <duration>119分钟</duration>
+    <production>爱尔兰</production>
+    <showDate country="China">2018-11-23</showDate>
+</information>
+<res>https://movie.douban.com/subject/26628282/</res>
+<mark>7.4</mark>
+
+<person>
+    <director> 欧格斯·兰斯莫斯</director>
+    <actor> 奥利维娅·科尔曼 / 艾玛·斯通 / 蕾切尔·薇兹 / 尼古拉斯·霍尔特 / 乔·阿尔</actor>
+</person>
+
+
+     <information>
+    <name>狗十三</name>
+    <type>剧情</type>
+    <poster>https://movie.douban.com/subject/25716096/photos?type=R</poster>
+    <brief>
+        13岁的少女李玩，由于父母离异，与爷爷奶奶生活在一起。正处于青春期的她渴望了解、陪伴和爱。在“要听话”的中国式教育里，李玩也完成了属于她的“成人礼”。电影中，父亲希望通过一条宠物小狗完成与女儿的和解与沟通，李玩为狗取名“爱因斯坦”，暗潮涌动的青春因“爱因斯坦”意外走失，开启了它汹涌又无奈的成长之路
+    </brief>
+    <duration>120分钟</duration>
+    <production>中国</production>
+    <showDate country="China">2018-12-07</showDate>
+</information>
+<res>https://movie.douban.com/subject/25716096/</res>
+<mark>8.2</mark>
+
+<person>
+    <director>曹保平</director>
+    <actor>张雪迎 / 果靖霖 / 智一桐 / 代旭 / 黄诗佳</actor>
+</person>
+
+
+     <information>
+    <name>暴裂无声</name>
+    <type>悬疑</type>
+    <poster>https://movie.douban.com/subject/26647117/photos?type=R</poster>
+    <brief>
+        故事发生在偏僻贫瘠的山村之中。张保民（宋洋 饰）是一名矿工，一天，他被妻子翠霞（谭卓 饰）叫回了家，原来，他们的儿子失踪了。带着儿子的照片，不会说话的张保民踏上了寻子之路，途中，他遇见了大资本家昌万年（姜武 饰）的爪牙，两方人马起了冲突，昌万年骗张保民自己知道他儿子的下落，实际上，他隐藏了一个黑暗的秘密。
+　　昌万年一直靠着行贿非法收购煤矿以牟取暴利，身为他的律师，徐文杰知道了太多不可告人的秘密。公检法机构开始着手调查昌万年的公司，徐文杰在这个节骨眼上玩起了失踪。为了逼迫徐文杰就范，昌万年绑架了他的女儿。
+    </brief>
+    <duration>120分钟</duration>
+    <production>中国</production>
+    <showDate country="China">2018-04-04</showDate>
+</information>
+<res>https://movie.douban.com/subject/26647117/</res>
+<mark>8.3</mark>
+
+<person>
+    <director>忻钰坤</director>
+    <actor> 宋洋 / 姜武 / 袁文康 / 谭卓 </actor>
+</person>
+
 </film>
