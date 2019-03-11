@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!--<!DOCTYPE film SYSTEM "verify.dtd">-->
+<!DOCTYPE film SYSTEM "verify.dtd">
 <film>
     <information>
         <name>驯龙高手3</name>
@@ -10,8 +10,9 @@
             　　统领伯克岛的酋长嗝嗝，与阿丝翠德共同打造了一个奇妙而热闹的飞龙乌托邦。而一只雌性光煞飞龙的意外出现，加上一个前所未有的威胁的到来，令嗝嗝和没牙仔不得不离开自己唯一的家园，前往他们本以为只存在于神话之中的隐秘之境。在发现自己真正的命运之后，飞龙与骑士将携手殊死奋战，保护他们所珍爱的一切
         </brief>
         <duration>104分钟</duration>
-        <country>美国</country>
-        <show 国家="China">2019-03-01</show>
+        <production>美国</production>
+        <showDate country="China">2019-03-01</showDate>
+
     </information>
     <res>https://movie.douban.com/trailer/243864/#content</res>
     <mark>7.6</mark>
@@ -32,8 +33,8 @@
             饰）在内，虽然一家人游走在贫困和违法的边缘，但笃深的羁绊将他们紧紧联系在一起，使他们的心不会随着冰冷的都市而寒冷下去……
         </brief>
         <duration>117分钟</duration>
-        <country>日本</country>
-        <show 国家="China">2018-08-03</show>
+        <production>日本</production>
+        <showDate country="China">2018-08-03</showDate>
     </information>
     <res>https://movie.douban.com/trailer/234451/#content</res>
     <mark>8.7</mark>
@@ -55,8 +56,8 @@
             饰）所设立的机动球比赛中，最终获得冠军的人能够获得前往撒冷生活的资格，阿丽塔决定利用自己的格斗天赋参加比赛，却被卷入了一个巨大的阴..
         </brief>
         <duration>122分钟</duration>
-        <country>美国 / 加拿大 / 阿根廷</country>
-        <show 国家="China">2019-02-22</show>
+        <production>美国 / 加拿大 / 阿根廷</production>
+        <showDate country="China">2019-02-22</showDate>
     </information>
     <res>https://movie.douban.com/trailer/241829/#content</res>
     <mark>7.6</mark>
@@ -76,8 +77,8 @@
             　　绿皮书，是一本专为黑人而设的旅行指南，标注了各城市中允许黑人进入的旅店、餐馆。电影由真实故事改编。
         </brief>
         <duration>130分钟</duration>
-        <country>美国</country>
-        <show 国家="China">2019-03-01</show>
+        <production>美国</production>
+        <showDate country="China">2019-03-01</showDate>
     </information>
     <res>https://movie.douban.com/trailer/243698/#content</res>
     <mark>8.9</mark>
@@ -98,8 +99,8 @@
             饰）的运输车，结果不仅遭到逮捕，还遭遇了全球发动机停摆的事件。为了修好发动机，阻止地球坠入木星，全球开始展开饱和式营救，连刘启他们的车也被强征加入。在与时间赛跑的过程中，无数的人前仆后继，奋不顾身，只为延续百代子孙生存的希望……
         </brief>
         <duration>125分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242330/#content</res>
     <mark>7.9</mark>
@@ -118,8 +119,8 @@
             曾经在赛车界叱咤风云、如今却只能经营炒饭大排档的赛车手张驰（沈腾饰）决定重返车坛挑战年轻一代的天才。然而没钱没车没队友，甚至驾照都得重新考，这场笑料百出不断被打脸的复出之路，还有更多哭笑不得的窘境在等待着这位过气车神…
         </brief>
         <duration>98分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242838/#content</res>
     <mark>7.0</mark>
@@ -138,8 +139,8 @@
             饰），经营着各自惨淡的“事业”，然而“天外来客”的意外降临，打破了二人平静又拮据的生活。神秘的西方力量也派出“哼哈二将”在全球搜查外星人行踪。啼笑皆非的跨物种对决，别开生面的“星战”，在中国某海边城市激情上演
         </brief>
         <duration>116分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/241313/#content</res>
     <mark>6.4</mark>
@@ -160,8 +161,8 @@
             一场关于守护与成长、爱与勇气的冒险，拉开序幕…
         </brief>
         <duration>88分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242618/#content</res>
     <mark>6.5</mark>
@@ -181,8 +182,8 @@
             朝夕相处中，直树渐渐被湘琴乐观的无畏精神吸引，他开始怀疑：湘琴究竟是人生偏差、还是自己的命中注定?
         </brief>
         <duration>122分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-14</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-14</showDate>
     </information>
     <res>https://movie.douban.com/trailer/243147/#content</res>
     <mark>5.3</mark>
@@ -204,8 +205,8 @@
             原来，在这个钟鸣鼎食的家族背后，隐藏着一段让人唏嘘扼腕的爱恨情仇。
         </brief>
         <duration>88分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-22</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-22</showDate>
     </information>
     <res>https://movie.douban.com/trailer/243361/#content</res>
     <mark>暂无</mark>
@@ -228,8 +229,8 @@
             如梦陷入艰难抉择...
         </brief>
         <duration>91分钟</duration>
-        <country>中国大陆 / 香港</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆 / 香港</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242605/#content</res>
     <mark>5.8</mark>
@@ -251,8 +252,8 @@
             　　这一晚，一个关于爱情、友情、亲情的纠葛往事，在父亲、朋友与情人不同的记忆拼凑下，这出陈年的真相呼之欲出.....
         </brief>
         <duration>100分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-03-01</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-03-01</showDate>
     </information>
     <res>暂无</res>
     <mark>暂无</mark>
@@ -269,8 +270,8 @@
         <poster>https://movie.douban.com/subject/27039378/photos?type=R</poster>
         <brief>影片讲述梦想成为director的淳朴青年健司（坂口健太郎 饰），和从黑白电影中“穿越而出”，现身于健司面前的美雪公主（绫濑遥 饰）之间的纯情恋爱故事。</brief>
         <duration>109分钟</duration>
-        <country>日本</country>
-        <show 国家="China">2019-02-14</show>
+        <production>日本</production>
+        <showDate country="China">2019-02-14</showDate>
     </information>
     <res>https://movie.douban.com/trailer/243139/#content</res>
     <mark>7.2</mark>
@@ -289,8 +290,8 @@
             廉政公署一宗经历多年调查的严重非法内销行贿案件，竟因首被告理达贸易集团负责人陈超群弃保潜逃，以及唯一重要证人兼举报者，理达的前任财务总监许植尧（张家辉饰）缺席出庭作证，导致法庭勒令延审一星期！为了7天后案件顺利重审，ICAC展开全面行动。负责此案的队长陈敬慈（刘青云饰）和负责寻找证人的江雪儿（林嘉欣饰）原是廉政公署一对恩爱夫妻，如今已分居多时，为了案件不得不联手合作。在抓捕陈超群和寻找许植尧的过程中两人都意外发现他们背后隐藏的另一重身份。一个谜团的解开是另一个谜团的开启，背后的阴谋远远超出所有人的想象，烟幕笼罩下光明之路在何方？
         </brief>
         <duration>114分钟</duration>
-        <country>香港 / 中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>香港 / 中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242441/#content</res>
     <mark>5.5</mark>
@@ -307,8 +308,8 @@
         <poster>https://movie.douban.com/subject/27065898/photos?type=R</poster>
         <brief>一代文豪蒲松龄（成龙饰）执阴阳判化身神探，与捕快严飞（林柏宏饰）联手追踪金华镇少女失踪案。蒲松龄带领“猪狮虎”“屁屁”“忘忧”“千手”等一众小妖深入案情，在找寻真相的过程中，牵扯出一段旷世奇恋。</brief>
         <duration>108分钟</duration>
-        <country>中国大陆</country>
-        <show 国家="China">2019-02-05</show>
+        <production>中国大陆</production>
+        <showDate country="China">2019-02-05</showDate>
     </information>
     <res>https://movie.douban.com/trailer/242374/#content</res>
     <mark>4.1</mark>
@@ -329,8 +330,8 @@
             　　他们合力与恶势力展开斗争……
         </brief>
         <duration>116分钟(中国大陆) / 117分钟(美国)</duration>
-        <country>美国</country>
-        <show 国家="China">2018-12-21</show>
+        <production>美国</production>
+        <showDate country="China">2018-12-21</showDate>
     </information>
     <res>https://movie.douban.com/trailer/240540/#content</res>
     <mark>8.7</mark>
