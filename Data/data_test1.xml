@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE film SYSTEM "verify.dtd">
-<film>
+<!--<!DOCTYPE film SYSTEM "verify.dtd">-->
+
+
+
+<film xmlns="http://www.w3school.com.cn"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3school.com.cn schema.xsd">
     <information>
         <name>驯龙高手3</name>
         <type>奇幻</type>
@@ -19,7 +24,7 @@
 
     <person>
         <director>迪恩·德布洛斯</director>
-        <actor>杰伊·巴鲁切尔 / 亚美莉卡·费雷拉 / F·默里·亚伯拉罕</actor>
+        <actor>杰伊·巴鲁切尔  亚美莉卡·费雷拉  F·默里·亚伯拉罕</actor>
     </person>
 
 
