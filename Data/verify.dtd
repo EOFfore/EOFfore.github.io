@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT ENTER_NAME_OF_ROOT_ELEMENT_HERE EMPTY>
-<!ELEMENT film (information+,res*,mark,person+)+>
+<!ELEMENT film (item)+>
+<!ELEMENT item (information+,res*,mark,person+)>
 <!ELEMENT information (name,type+,poster,brief,duration,production+,showDate)>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT type (#PCDATA)>
