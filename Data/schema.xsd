@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema
         xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
         targetNamespace="http://www.w3school.com.cn"
         xmlns="http://www.w3school.com.cn"
         elementFormDefault="qualified">
+    <xsd:element name="film">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="item" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
 
+    <xsd:element name="item">
+        <xsd:complexType>
+            <xsd:sequence>
+                <!--子元素-->
+                <xsd:element ref="information"/>
+                <xsd:element ref="res"/>
+                <xsd:element ref="mark"/>
+                <xsd:element ref="person"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
     <xsd:element name="information">
         <xsd:complexType>
             <xsd:sequence>
@@ -14,35 +33,37 @@
                 <xsd:element name="brief" type="xsd:string"/>
                 <xsd:element name="duration" type="xsd:duration"/>
                 <xsd:element name="production" type="xsd:string"/>
-                <xsd:element ref="showDate"/>
+                <xsd:element name="showDate" type="typeShow" nillable="true"/><!--可以为空，特殊设定的属性-->
             </xsd:sequence>
-
-        </xsd:complexType>
-
-    </xsd:element>
-
-    <xsd:element name="showDate" type="xsd:date">
-        <xsd:complexType>
-            <xsd:attribute name="country" type="xsd:string"/>
         </xsd:complexType>
     </xsd:element>
 
+    <xsd:complexType name="typeShow">
+        <xsd:simpleContent>
+            <xsd:extension base="xsd:date">
+                <xsd:attribute name="country" type="xsd:string"/>
+            </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
 
-    <xsd:element name="res"/>
 
-    <xsd:element name="mark"/>
+    <xsd:element name="res" type="xsd:anyURI" nillable="true"/><!--可以为空-->
 
+    <xsd:element name="mark" type="markType"/>
+    <xsd:complexType name="markType">
+        <xsd:simpleContent>
+            <xsd:restriction base="xsd:float">
+                <xsd:maxInclusive value="10"/>
+                <xsd:minInclusive value="0"/>
+            </xsd:restriction>
+        </xsd:simpleContent>
+    </xsd:complexType>
     <xsd:element name="person">
         <xsd:complexType>
-            <xsd:sequence>
-                <xsd:group ref="personInfo"/>
-
-
-            </xsd:sequence>
-
-
+            <xsd:group ref="personInfo"/>
         </xsd:complexType>
     </xsd:element>
+
     <xsd:group name="personInfo">
         <xsd:sequence>
             <xsd:element ref="director"/>
@@ -59,16 +80,6 @@
             <xsd:list itemType="xsd:string"/>
         </xsd:simpleType>
     </xsd:element>
-    <xsd:element name="film">
-        <xsd:complexType>
-            <xsd:sequence>
-                <!--子元素-->
-                <xsd:element ref="information" maxOccurs="unbounded"/>
-                <xsd:element ref="res"/>
-                <xsd:element ref="mark"/>
-                <xsd:element ref="person" maxOccurs="unbounded"/>
-            </xsd:sequence>
-        </xsd:complexType>
-    </xsd:element>
+
 
 </xsd:schema>
