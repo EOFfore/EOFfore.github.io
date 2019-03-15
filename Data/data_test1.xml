@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE film SYSTEM "verify.dtd">
+<!--<!DOCTYPE film SYSTEM "verify.dtd">-->
 
 
 <film xmlns="http://www.w3school.com.cn"
@@ -180,7 +180,7 @@
     <item>
         <information>
             <name>一吻定情</name>
-            <type>喜剧 / 爱情</type>
+            <type>喜剧 爱情</type>
             <poster>https://movie.douban.com/subject/30263995/photos?type=R</poster>
             <brief>笨蛋爱上天才，会有结果吗？平凡女孩原湘琴（林允饰）喜欢上了天才少年江直树（王大陆饰），
                 在她表白失败准备放弃之际，爸爸居然带着自己搬进了直树家里？！一个猛追，一个猛逃，热闹欢腾的纯真高中生活就此上演。
@@ -214,7 +214,7 @@
             <showDate country="China">2019-02-22</showDate>
         </information>
         <res>https://movie.douban.com/trailer/243361/#content</res>
-        <mark>暂无</mark>
+        <mark xsi:nil="true"/>
 
         <person>
             <director>王辰六</director>
@@ -262,7 +262,7 @@
             <showDate country="China">2019-03-01</showDate>
         </information>
         <res>暂无</res>
-        <mark>暂无</mark>
+        <mark xsi:nil="true"/>
 
         <person>
             <director>娄晶晶</director>
@@ -642,7 +642,7 @@
             <production>中国</production>
             <showDate country="China">2018-04-04</showDate>
         </information>
-        <res>https://movie.douban.com/subject/26647117/</res>
+        <res >https://movie.douban.com/subject/26647117/</res>
         <mark>8.3</mark>
 
         <person>

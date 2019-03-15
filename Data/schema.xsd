@@ -19,17 +19,18 @@
                 <!--子元素-->
                 <xsd:element ref="information"/>
                 <xsd:element ref="res"/>
-                <xsd:element ref="mark"/>
+                <xsd:element ref="mark" />
                 <xsd:element ref="person"/>
             </xsd:sequence>
         </xsd:complexType>
     </xsd:element>
+
     <xsd:element name="information">
         <xsd:complexType>
             <xsd:sequence>
                 <xsd:element name="name" type="xsd:string"/>
-                <xsd:element name="type"/>
-                <xsd:element name="poster"/>
+                <xsd:element name="type" type="typeFilm"/>
+                <xsd:element name="poster" type="xsd:anyURI"/>
                 <xsd:element name="brief" type="xsd:string"/>
                 <xsd:element name="duration" type="xsd:duration"/>
                 <xsd:element name="production" type="xsd:string"/>
@@ -38,10 +39,21 @@
         </xsd:complexType>
     </xsd:element>
 
+    <xsd:simpleType name="typeFilm">
+        <xsd:list itemType="xsd:string">
+        </xsd:list>
+    </xsd:simpleType>
+
     <xsd:complexType name="typeShow">
         <xsd:simpleContent>
             <xsd:extension base="xsd:date">
-                <xsd:attribute name="country" type="xsd:string"/>
+                <xsd:attribute name="country" type="xsd:string">
+                    <xsd:simpleType>
+                        <xsd:restriction base="xsd:string">
+                            <xsd:pattern value="China|Korean"/><!--首映的国家-->
+                        </xsd:restriction>
+                    </xsd:simpleType>
+                </xsd:attribute>
             </xsd:extension>
         </xsd:simpleContent>
     </xsd:complexType>
@@ -49,15 +61,18 @@
 
     <xsd:element name="res" type="xsd:anyURI" nillable="true"/><!--可以为空-->
 
-    <xsd:element name="mark" type="markType"/>
-    <xsd:complexType name="markType">
-        <xsd:simpleContent>
-            <xsd:restriction base="xsd:float">
-                <xsd:maxInclusive value="10"/>
+     <xsd:element name="mark" nillable="true"><!--可以为空-->
+                    <xsd:simpleType>
+            <xsd:restriction base="xsd:decimal">
                 <xsd:minInclusive value="0"/>
+                <xsd:maxInclusive value="10"/>
+
+                <xsd:fractionDigits value="1"/>
+
             </xsd:restriction>
-        </xsd:simpleContent>
-    </xsd:complexType>
+    </xsd:simpleType>
+                </xsd:element>
+
     <xsd:element name="person">
         <xsd:complexType>
             <xsd:group ref="personInfo"/>
@@ -80,6 +95,5 @@
             <xsd:list itemType="xsd:string"/>
         </xsd:simpleType>
     </xsd:element>
-
 
 </xsd:schema>
