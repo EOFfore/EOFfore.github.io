@@ -6,7 +6,7 @@ card {
 }
 
 姓名 {
-    font-size: 20pt;
+    font-size: 23pt;
     margin-bottom: 16pt;
     color: orange;
     font-weight: bold;
@@ -20,14 +20,18 @@ card {
 }
 
 联系方式 {
+
+     display: block;
     margin-left: 0;
     margin-top: 16pt;
+    font-size: 18pt;
 }
 
 QQ, 电话, 邮箱 {
     display: block;
     font-size: 15pt;
     margin-top: 5pt;
+    font-style: italic;
 }
 
 工作单位, 地址 {

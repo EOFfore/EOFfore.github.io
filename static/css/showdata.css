@@ -1,5 +1,7 @@
 film{
 width: 200px;
     height: 1000px;
-
 }
+ brief{
+    font-size: 10px;
+ }
