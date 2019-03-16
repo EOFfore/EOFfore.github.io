@@ -9,6 +9,9 @@ background-color: whitesmoke;
 item{
     display: block;
 }
+information{
+display: block;
+}
 name{
     margin-top: 10px;
     font-size: 30px;
@@ -16,26 +19,47 @@ name{
     color: orange;
     font-weight: bold;
     margin-right: 30px;
+display: block;
 }
 type{
-    margin-right:50px;
+    margin-right:750px;
+
 }
 poster{
 
+    margin-left: 20px;
+    opacity: 0.7;
+display: block;
 }
  brief{
     font-size: 16px;
      opacity: 0.6;
      margin-left: 20px;
      margin-right: 50px;
+     display: block;
  }
- person{
+
+
+duration
+{
+ margin-right: 720px;
+}
+production
+{
+     margin-right:720px;
+}
+showDate{
+margin-right:670px;
+}
+res{
+    margin-left: 20px;
+opacity: 0.7;
+ display: block;
+}
+person{
        display: block;
      margin-bottom: 30px;
  }
-res,showdate,production,duration{
-    margin-right: 50px;
-}
 director,actor{
       display: block;
         opacity: 0.8;
