@@ -1,0 +1,37 @@
+card {
+    background-color: whitesmoke;
+    display: block;
+    width: 100%;
+    margin-left: 20pt;
+}
+
+姓名 {
+    font-size: 20pt;
+    margin-bottom: 16pt;
+    color: orange;
+    font-weight: bold;
+}
+
+学号 {
+    font-size: 13pt;
+    margin-left: 10pt;
+    font-style: italic;
+    color: yellowgreen;
+}
+
+联系方式 {
+    margin-left: 0;
+    margin-top: 16pt;
+}
+
+QQ, 电话, 邮箱 {
+    display: block;
+    font-size: 15pt;
+    margin-top: 5pt;
+}
+
+工作单位, 地址 {
+    display: block;
+    font-size: 15pt;
+    margin-top: 5pt;
+}
