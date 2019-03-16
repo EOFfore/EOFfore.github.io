@@ -1,7 +1,42 @@
 film{
-width: 200px;
-    height: 1000px;
+background-color: whitesmoke;
+    display: block;
+    width: 70%;
+    margin-left: 20pt;
+    margin: auto;
+    margin-top: 60px;
+}
+item{
+    display: block;
+}
+name{
+    margin-top: 10px;
+    font-size: 30px;
+     margin-bottom: 16pt;
+    color: orange;
+    font-weight: bold;
+    margin-right: 30px;
+}
+type{
+    margin-right:50px;
+}
+poster{
+
 }
  brief{
-    font-size: 10px;
+    font-size: 16px;
+     opacity: 0.6;
+     margin-left: 20px;
+     margin-right: 50px;
  }
+ person{
+       display: block;
+     margin-bottom: 30px;
+ }
+res,showdate,production,duration{
+    margin-right: 50px;
+}
+director,actor{
+      display: block;
+        opacity: 0.8;
+}
