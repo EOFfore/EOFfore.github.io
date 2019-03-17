@@ -12,12 +12,18 @@ card {
     color: orange;
     font-weight: bold;
 }
-
-学号 {
-    font-size: 13pt;
-    margin-left: 10pt;
+姓名::after{
+    content:attr(身份);
+    font-size: small;
+    margin-left: 15px;
+color: yellowgreen;
+}
+学号{
+    font-size: 11pt;
+    margin-top: 5px;
     font-style: italic;
-    color: yellowgreen;
+margin-left: 5px;
+
 }
 
 联系方式 {
