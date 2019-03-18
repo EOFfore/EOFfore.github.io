@@ -40,8 +40,28 @@
         </xsd:complexType>
     </xsd:element>
 
+    <xsd:simpleType name="typeEnum">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="动作"/>
+            <xsd:enumeration value="科幻"/>
+            <xsd:enumeration value="冒险"/>
+            <xsd:enumeration value="剧情"/>
+            <xsd:enumeration value="冒险"/>
+            <xsd:enumeration value="犯罪"/>
+            <xsd:enumeration value="奇幻"/>
+            <xsd:enumeration value="喜剧"/>
+            <xsd:enumeration value="动画"/>
+            <xsd:enumeration value="爱情"/>
+            <xsd:enumeration value="悬疑"/>
+            <xsd:enumeration value="惊悚"/>
+             <xsd:enumeration value="同性"/>
+            <xsd:enumeration value="战争"/>
+              <xsd:enumeration value="传记"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
     <xsd:simpleType name="typeFilm">
-        <xsd:list itemType="xsd:string">
+        <xsd:list itemType="typeEnum">
         </xsd:list>
     </xsd:simpleType>
 

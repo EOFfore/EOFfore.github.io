@@ -55,7 +55,7 @@
     <item>
         <information>
             <name>阿丽塔：战斗天使</name>
-            <type>动作 / 科幻 / 冒险</type>
+            <type>动作 科幻 冒险</type>
 
              <duration>PT122M</duration>
              <production>美国 / 加拿大 / 阿根廷</production>
@@ -220,7 +220,7 @@
     <item>
         <information>
             <name>古井凶灵</name>
-            <type>悬疑 / 惊悚</type>
+            <type>悬疑  惊悚</type>
 
              <duration>PT88M</duration>
              <production>中国大陆</production>
@@ -245,7 +245,7 @@
     <item>
         <information>
             <name>新喜剧之王</name>
-            <type>剧情 / 喜剧</type>
+            <type>剧情  喜剧</type>
 
              <duration>PT91M</duration>
              <production>中国大陆 / 香港</production>
@@ -272,7 +272,7 @@
     <item>
         <information>
             <name>逆罪</name>
-            <type>悬疑 / 惊悚</type>
+            <type>悬疑  惊悚</type>
 
              <duration>PT100M</duration>
              <production>中国大陆</production>
@@ -297,7 +297,7 @@
     <item>
         <information>
             <name>今夜在浪漫剧场 今夜、ロマンス劇場で</name>
-            <type>爱情 / 奇幻</type>
+            <type>爱情  奇幻</type>
              <duration>PT109M</duration>
              <production>日本</production>
             <showDate country="China">2019-02-14</showDate>
@@ -317,7 +317,7 @@
     <item>
         <information>
             <name>廉政风云</name>
-            <type>剧情 / 悬疑 / 犯罪</type>
+            <type>剧情  悬疑  犯罪</type>
 
              <duration>PT114M</duration>
              <production>香港 / 中国大陆</production>
@@ -339,7 +339,7 @@
     <item>
         <information>
             <name>神探蒲松龄</name>
-            <type>喜剧 / 动作 / 奇幻</type>
+            <type>喜剧  动作  奇幻</type>
 
              <duration>PT108M</duration>
              <production>中国大陆</production>
@@ -360,7 +360,7 @@
     <item>
         <information>
             <name>蜘蛛侠：平行宇宙</name>
-            <type>动作 / 科幻 / 动画 / 冒险</type>
+            <type>动作  科幻  动画  冒险</type>
 
              <duration>PT116M</duration>
              <production>美国</production>
@@ -386,7 +386,7 @@
     <item>
         <information>
             <name>我不是药神</name>
-            <type>剧情 / 喜剧</type>
+            <type>剧情  喜剧</type>
 
              <duration>PT117M</duration>
              <production>中国大陆</production>
@@ -411,7 +411,7 @@
     <item>
         <information>
             <name>头号玩家</name>
-            <type>动作 / 科幻 / 冒险</type>
+            <type>动作  科幻  冒险</type>
 
              <duration>PT140M</duration>
              <production>美国</production>
@@ -458,7 +458,7 @@
     <item>
         <information>
             <name>一出好戏</name>
-            <type>剧情 / 喜剧</type>
+            <type>剧情  喜剧</type>
 
              <duration>PT134M</duration>
              <production>中国大陆</production>
@@ -481,7 +481,7 @@
     <item>
         <information>
             <name>头号玩家</name>
-            <type>剧情 / 喜剧 / 同性</type>
+            <type>剧情  喜剧  同性</type>
 
              <duration>PT100M</duration>
              <production>台湾</production>
@@ -503,7 +503,7 @@
     <item>
         <information>
             <name>无双</name>
-            <type>剧情 / 动作 / 犯罪</type>
+            <type>剧情  动作  犯罪</type>
 
              <duration>PT130M</duration>
              <production>中国大陆 / 香港</production>
@@ -527,7 +527,7 @@
     <item>
         <information>
             <name>蚁人2：黄蜂女现身</name>
-            <type>动作 / 科幻 / 冒险</type>
+            <type>动作  科幻  冒险</type>
 
              <duration>PT119M</duration>
              <production>美国</production>
