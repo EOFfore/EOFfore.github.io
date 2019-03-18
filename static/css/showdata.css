@@ -21,16 +21,20 @@ name{
     margin-right: 30px;
 display: block;
 }
+
 type{
     margin-right:980px;
 
 }
+type:before{
+    content:"类型："
+}
 poster{
-
     margin-left: 20px;
     opacity: 0.7;
-display: block;
+  display: block;
 }
+
  brief{
     font-size: 16px;
      opacity: 0.6;
@@ -39,22 +43,41 @@ display: block;
      display: block;
  }
 
-
 duration
 {
- margin-right: 950px;
+
+    display: block;
+}
+duration::before{
+    content: "电影时长：";
 }
 production
 {
-     margin-right:950px;
+
+    display: block;
+}
+production::before
+{
+    content:"制片国家："
 }
 showDate{
-margin-right:880px;
+
+    display: block;
+}
+showDate::before{
+    content: "上映时间：";
 }
 res{
     margin-left: 20px;
 opacity: 0.7;
- display: block;
+  display: block;
+}
+
+mark{
+display: block;
+}
+mark::before{
+    content:"评分:"
 }
 person{
        display: block;
