@@ -68,18 +68,17 @@
     <xsd:complexType name="typeShow">
         <xsd:simpleContent>
             <xsd:extension base="xsd:date">
-                <xsd:attribute name="country" type="xsd:string">
-                    <xsd:simpleType>
-                        <xsd:restriction base="xsd:string">
-                            <xsd:pattern value="China|Korean"/><!--首映的国家-->
-                        </xsd:restriction>
-                    </xsd:simpleType>
+                <xsd:attribute name="country" type="countryType">
                 </xsd:attribute>
             </xsd:extension>
         </xsd:simpleContent>
     </xsd:complexType>
 
-
+    <xsd:simpleType name="countryType">
+                        <xsd:restriction base="xsd:string">
+                            <xsd:pattern value="China|Korean"/><!--首映的国家-->
+                        </xsd:restriction>
+                    </xsd:simpleType>
     <xsd:element name="res" type="xsd:anyURI" nillable="true"/><!--可以为空-->
 
     <xsd:element name="mark" nillable="true"><!--可以为空-->

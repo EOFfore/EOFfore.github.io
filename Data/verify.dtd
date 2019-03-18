@@ -8,7 +8,7 @@
         <!ELEMENT duration (#PCDATA)>
         <!ELEMENT production (#PCDATA)>
         <!ELEMENT showDate (#PCDATA)>
-        <!ATTLIST showDate country CDATA >
+        <!ATTLIST showDate country CDATA #REQUIRED>
         <!ELEMENT poster (#PCDATA)>
         <!ELEMENT brief (#PCDATA)>
         <!ELEMENT res (#PCDATA)>
