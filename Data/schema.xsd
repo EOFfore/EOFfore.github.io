@@ -57,6 +57,8 @@
              <xsd:enumeration value="同性"/>
             <xsd:enumeration value="战争"/>
               <xsd:enumeration value="传记"/>
+            <xsd:enumeration value="家庭"/>
+            <xsd:enumeration value="运动"/>
         </xsd:restriction>
     </xsd:simpleType>
 
@@ -76,7 +78,7 @@
 
     <xsd:simpleType name="countryType">
                         <xsd:restriction base="xsd:string">
-                            <xsd:pattern value="China|Korean"/><!--首映的国家-->
+                            <xsd:pattern value="China|Korean|Japan|America"/><!--首映的国家-->
                         </xsd:restriction>
                     </xsd:simpleType>
     <xsd:element name="res" type="xsd:anyURI" nillable="true"/><!--可以为空-->
