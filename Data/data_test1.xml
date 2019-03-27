@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet type="text/css" href="../static/css/showdata.css"?>
 <!--<!DOCTYPE film SYSTEM "verify.dtd">-->
-<film xmlns="http://www.w3school.com.cn"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.w3school.com.cn schema.xsd">
+<film>
     <item>
         <information>
             <name>驯龙高手3</name>
@@ -235,7 +233,6 @@
 
         </information>
          电影连接：<res>https://movie.douban.com/trailer/243361/#content</res>
-        <mark xsi:nil="true"/>
 
         <person>
             导演 : <director>王辰六</director>
@@ -287,7 +284,6 @@
 
         </information>
          电影连接：<res>暂无</res>
-        <mark xsi:nil="true"/>
 
         <person>
             导演 : <director>娄晶晶</director>
