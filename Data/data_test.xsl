@@ -21,11 +21,11 @@
         <xsl:for-each select="//item">
             <p id="p_movieName"> <xsl:value-of select="information/name" /></p>
             <div id="div_moviePoster">
-                <xsl:element name="IMG">
+                <img id="img_moviePoster">
                     <xsl:attribute name="src">
                     <xsl:value-of select="information/poster"/>
                     </xsl:attribute>
-                </xsl:element>>
+                </img>
             </div>
             <p id="p_movieType">类型 : <xsl:value-of select="information/type"/></p>
              <p id="p_movieDuration">时长 : <xsl:value-of select="information/duration"/></p>
