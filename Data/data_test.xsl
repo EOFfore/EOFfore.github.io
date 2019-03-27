@@ -23,7 +23,7 @@
             <div id="div_moviePoster">
                 <img>
                     <xsl:attribute name="src">
-                    <xsl:value-of select="information/@poster"/>
+                    <xsl:value-of select="information/poster"/>
                     </xsl:attribute>
                 </img>
             </div>
