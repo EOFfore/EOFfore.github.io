@@ -1,0 +1,46 @@
+body{
+    background-color: whitesmoke;
+}
+#p_movieList{
+    font-size:45px;
+    margin-left: 50px;
+    font-weight: bold;
+
+}
+#div_movieList{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#p_data{
+    font-size:45px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+#div_showData{
+    margin-left: 30px;
+
+}
+
+
+#p_movieName{
+    margin-top: 10px;
+    font-size: 30px;
+     margin-bottom: 16pt;
+    color: orange;
+    font-weight: bold;
+    margin-right: 30px;
+}
+#p_movieBrief{
+     font-size: 16px;
+     opacity: 0.6;
+     margin-left: 20px;
+     margin-right: 50px;
+
+}
+#p_movieDirector,#p_movieActor{
+    opacity: 0.8;
+}
+#div_moviePoster{
+    height: 200px;
+    width: 150px;
+}
