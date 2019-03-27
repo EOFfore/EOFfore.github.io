@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xpath-default-namespace="http://www.hz-sp.com/2005/XMLSchema-menu" version="2.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-
->
+                xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
 <html>
     <head>
@@ -22,6 +20,13 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
          <p id="p_data">电影信息</p>
         <xsl:for-each select="//item">
             <p id="p_movieName"> <xsl:value-of select="information/name" /></p>
+            <div id="div_moviePoster">
+                <img>
+                    <xsl:attribute name="src">
+                    <xsl:value-of select="information/poster"/>
+                    </xsl:attribute>
+                </img>
+            </div>
             <p id="p_movieType">类型 : <xsl:value-of select="information/type"/></p>
              <p id="p_movieDuration">时长 : <xsl:value-of select="information/duration"/></p>
             <p id="p_movieCountry">制片国家 : <xsl:value-of select="information/production"/></p>
