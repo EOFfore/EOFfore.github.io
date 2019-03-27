@@ -40,7 +40,8 @@ body{
 #p_movieDirector,#p_movieActor{
     opacity: 0.8;
 }
-#div_moviePoster{
-    height: 200px;
-    width: 150px;
+
+#img_moviePoster{
+    height: 300px;
+    width: 200px;
 }
