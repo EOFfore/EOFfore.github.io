@@ -8,6 +8,7 @@
 <html>
     <head>
         <link rel="stylesheet" type="text/css" href="../static/css/data_xsl.css"/>
+    <embed src="basketball.svg" width="300" height="100" type="image/svg+xml"/>
     </head>
 <body>
     <div id="div_movieList" float="right">
@@ -41,6 +42,8 @@
         </table>
         </td>
 
+
+
           <td>
                <h2 style="margin-left:220px">当前本站评分top10排名</h2>
         <table border="1" style="margin-left:220px;margin-bottom: 590px;">
@@ -50,6 +53,7 @@
       </tr>
             <xsl:for-each select="//item" >
     <xsl:sort select="mark" order="descending"/>
+                <!--保留前10个数据-->
                  <xsl:if test="position() &lt; 11">
 
 
