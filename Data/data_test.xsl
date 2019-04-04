@@ -26,10 +26,16 @@
                 <xsl:sort select="type"/>
                 <tr>
                     <xsl:choose>
-          <xsl:when test="production ='中国'">
+          <xsl:when test="production ='中国'" >
             <td bgcolor="#87CEFA">
               <xsl:value-of select="name"/></td>
           </xsl:when>
+                       <!--多个条件
+                        <xsl:when test="production='美国'" >
+            <td bgcolor="#87CEFA">
+              <xsl:value-of select="name"/></td>
+
+          </xsl:when>-->
 
           <xsl:otherwise>
               <td><xsl:value-of select="name"/></td>
@@ -55,11 +61,17 @@
     <xsl:sort select="mark" order="descending"/>
                 <!--保留前10个数据-->
                  <xsl:if test="position() &lt; 11">
-
-
                 <tr>
                  <td><xsl:value-of select="information/name"/></td>
                <td><xsl:value-of select="mark"/></td>
+                 <!--属性展示
+                    <td>
+
+                    <xsl:value-of select="information/showDate[@country]/@country" />
+
+
+                    </td>
+                    -->
                 </tr>
                 </xsl:if>
 
