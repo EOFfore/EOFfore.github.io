@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<film>
+    <item>
+        <information>
+            <name>雷霆沙赞</name>
+            <type>动作 奇幻 冒险</type>
+            <duration>PT132M</duration>
+            <production>美国</production>
+            <showDate country="China">2019-04-05</showDate>
+            <brief>每个人身体里都潜藏着一位超级英雄，只需要一点魔力便能将其释放。14岁的街头小混混比利·巴特森(亚瑟·安其饰)通过大喊“沙赞”这个词，就可以变身为成年超级英雄沙赞(扎克瑞·莱维饰)，这是一种来自于古老巫师的恩惠。如神一般的肌肉身体里，仍存有一颗孩子心，他开心地与超能力为伴。他能飞吗？他能X光透视吗？他能从手中射出闪电吗？他能不用再考试了吗？沙赞以孩子般轻率又鲁莽的方式，开始测试他的能力极限。但他需要尽快掌握这些力量，以对抗塞迪斯·希瓦纳博士控制的邪恶势力。</brief>
+            <poster>https://eoffore.github.io/Data/poster/雷霆沙赞.jpg</poster>
+        </information>
+        <res>https://movie.douban.com/trailer/245364/#content</res>
+        <mark>6.6</mark>
+        <person>
+            <director>大卫·F·桑德伯格</director>
+            <actor>扎克瑞·莱维 / 马克·斯特朗 / 亚瑟·安其 / 杰克·迪伦·格雷泽 / 杰曼·翰苏</actor>
+        </person>
+    </item>
+
+
+     <item>
+        <information>
+            <name></name>
+            <type></type>
+            <duration></duration>
+            <production></production>
+            <showDate country="China"></showDate>
+            <brief></brief>
+            <poster></poster>
+        </information>
+        <res></res>
+        <mark></mark>
+        <person>
+            <director></director>
+            <actor></actor>
+        </person>
+    </item>
+
+     <item>
+        <information>
+            <name></name>
+            <type></type>
+            <duration></duration>
+            <production></production>
+            <showDate country="China"></showDate>
+            <brief></brief>
+            <poster></poster>
+        </information>
+        <res></res>
+        <mark></mark>
+        <person>
+            <director></director>
+            <actor></actor>
+        </person>
+    </item>
+
+     <item>
+        <information>
+            <name></name>
+            <type></type>
+            <duration></duration>
+            <production></production>
+            <showDate country="China"></showDate>
+            <brief></brief>
+            <poster></poster>
+        </information>
+        <res></res>
+        <mark></mark>
+        <person>
+            <director></director>
+            <actor></actor>
+        </person>
+    </item>
+
+     <item>
+        <information>
+            <name></name>
+            <type></type>
+            <duration></duration>
+            <production></production>
+            <showDate country="China"></showDate>
+            <brief></brief>
+            <poster></poster>
+        </information>
+        <res></res>
+        <mark></mark>
+        <person>
+            <director></director>
+            <actor></actor>
+        </person>
+    </item>
+</film>
