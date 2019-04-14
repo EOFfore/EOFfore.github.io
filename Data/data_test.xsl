@@ -60,7 +60,8 @@
             <xsl:for-each select="//item" >
     <xsl:sort select="mark" order="descending"/>
                 <!--保留前10个数据-->
-                 <xsl:if test="position() &lt; 11">
+
+                 <xsl:if test="position() &gt; 11">
                 <tr>
                  <td><xsl:value-of select="information/name"/></td>
                <td><xsl:value-of select="mark"/></td>
