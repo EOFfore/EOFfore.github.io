@@ -86,7 +86,7 @@
              <production>美国</production>
             <showDate country="China">2019-03-01</showDate>
 
-        图片链 剧情简介：<brief>
+        剧情简介：<brief>
                 一名黑人钢琴家，为前往种族歧视严重的南方巡演，找了一个粗暴的白人混混做司机。在一路开车南下的过程里，截然不同的两人矛盾不断，引发了不少争吵和笑料。但又在彼此最需要的时候，一起共渡难关。行程临近结束，两人也慢慢放下了偏见......
                 　　绿皮书，是一本专为黑人而设的旅行指南，标注了各城市中允许黑人进入的旅店、餐馆。电影由真实故事改编。
             </brief> : 图片链接：<poster>https://img3.doubanio.com/view/photo/l/public/p2549177902.jpg</poster>
@@ -129,7 +129,7 @@
             <name>飞驰人生</name>
             <type>喜剧</type>
 
-             <duration>PT98M</duration>
+             <duration>PT098M</duration>
              <production>中国</production>
             <showDate country="China">2019-02-05</showDate>
             剧情简介：<brief>
@@ -173,7 +173,7 @@
             <name>熊出没·原始时代</name>
             <type>动画</type>
 
-             <duration>PT88M</duration>
+             <duration>PT088M</duration>
              <production>中国</production>
             <showDate country="China">2019-02-05</showDate>
             剧情简介：<brief>熊大熊二光头强意外穿越回恢宏的石器时代，在原始部落与猛犸象、剑齿虎等一众奇特 生物开启了眼界大开的奇幻之旅！
@@ -221,7 +221,7 @@
             <name>古井凶灵</name>
             <type>悬疑  惊悚</type>
 
-             <duration>PT88M</duration>
+             <duration>PT088M</duration>
              <production>中国</production>
             <showDate country="China">2019-02-22</showDate>
             剧情简介：<brief>民国九年，父亲没有顾及女儿的反对，执意让孝芸嫁入权尊势重的童家。
@@ -234,7 +234,7 @@
 
         </information>
          电影连接：<res>https://movie.douban.com/trailer/243361/#content</res>
-
+<mark>0</mark>
         <person>
             导演 : <director>王辰六</director>
             主演 : <actor>程韦然 / 陈美林 / 李易芸 / 任笑霏</actor>
@@ -245,7 +245,7 @@
             <name>新喜剧之王</name>
             <type>剧情  喜剧</type>
 
-             <duration>PT91M</duration>
+             <duration>PT091M</duration>
              <production>中国</production>
             <showDate country="China">2019-02-05</showDate>
             剧情简介：<brief>　一直有个明星梦的小镇大龄女青年如梦跑龙套多年未果。
@@ -285,7 +285,7 @@
 
         </information>
          电影连接：<res>暂无</res>
-
+<mark>0</mark>
         <person>
             导演 : <director>娄晶晶</director>
             主演 : <actor>李岷城 / 彭高唱 / 马晓峰 / 薛祺 / 杨卿</actor>
@@ -317,7 +317,7 @@
             <type>剧情  悬疑  犯罪</type>
 
              <duration>PT114M</duration>
-             <production>香港 / 中国</production>
+             <production>中国 香港</production>
             <showDate country="China">2019-02-05</showDate>
             剧情简介：<brief>
                 廉政公署一宗经历多年调查的严重非法内销行贿案件，竟因首被告理达贸易集团负责人陈超群弃保潜逃，以及唯一重要证人兼举报者，理达的前任财务总监许植尧（张家辉饰）缺席出庭作证，导致法庭勒令延审一星期！为了7天后案件顺利重审，ICAC展开全面行动。负责此案的队长陈敬慈（刘青云饰）和负责寻找证人的江雪儿（林嘉欣饰）原是廉政公署一对恩爱夫妻，如今已分居多时，为了案件不得不联手合作。在抓捕陈超群和寻找许植尧的过程中两人都意外发现他们背后隐藏的另一重身份。一个谜团的解开是另一个谜团的开启，背后的阴谋远远超出所有人的想象，烟幕笼罩下光明之路在何方？
@@ -872,7 +872,7 @@
             <name>寂静人生</name>
             <type>剧情</type>
 
-             <duration>PT87M</duration>
+             <duration>PT087M</duration>
              <production>英国</production>
             <showDate country="Japan">2013-09-03</showDate>
 
@@ -925,7 +925,7 @@
             <name>豆满江</name>
             <type>剧情</type>
 
-             <duration>PT89M</duration>
+             <duration>PT089M</duration>
              <production>韩国</production>
             <showDate country="Korea">2011-03-17</showDate>
 
@@ -950,7 +950,7 @@
             <name>悠哉日常大王剧场版：假期活动</name>
             <type>喜剧 </type>
 
-             <duration>PT71M</duration>
+             <duration>PT071M</duration>
              <production>日本</production>
             <showDate country="Japan">2018-08-25</showDate>
 
@@ -1074,8 +1074,8 @@
             <name>昆池岩</name>
             <type>恐怖</type>
 
-             <duration>PT94M</duration>
-             <production>韩语</production>
+             <duration>PT094M</duration>
+             <production>韩国</production>
             <showDate country="Korea">2018-03-28</showDate>
 
             剧情简介：<brief>

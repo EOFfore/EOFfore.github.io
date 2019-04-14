@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet type="text/xsl" href="Example_cz.xsl"?>
-
 <!--<!DOCTYPE film SYSTEM "verify.dtd">-->
 <film>
     <item>
@@ -129,7 +128,7 @@
             <name>飞驰人生</name>
             <type>喜剧</type>
 
-             <duration>PT98M</duration>
+             <duration>PT098M</duration>
              <production>中国</production>
             <showDate country="China">2019-02-05</showDate>
             剧情简介：<brief>
@@ -173,7 +172,7 @@
             <name>熊出没·原始时代</name>
             <type>动画</type>
 
-             <duration>PT88M</duration>
+             <duration>PT088M</duration>
              <production>中国</production>
             <showDate country="China">2019-02-05</showDate>
             剧情简介：<brief>熊大熊二光头强意外穿越回恢宏的石器时代，在原始部落与猛犸象、剑齿虎等一众奇特 生物开启了眼界大开的奇幻之旅！
@@ -221,7 +220,7 @@
             <name>古井凶灵</name>
             <type>悬疑  惊悚</type>
 
-             <duration>PT88M</duration>
+             <duration>PT088M</duration>
              <production>中国</production>
             <showDate country="China">2019-02-22</showDate>
             剧情简介：<brief>民国九年，父亲没有顾及女儿的反对，执意让孝芸嫁入权尊势重的童家。
@@ -245,7 +244,7 @@
             <name>新喜剧之王</name>
             <type>剧情  喜剧</type>
 
-             <duration>PT91M</duration>
+             <duration>PT091M</duration>
              <production>中国</production>
             <showDate country="China">2019-02-05</showDate>
             剧情简介：<brief>　一直有个明星梦的小镇大龄女青年如梦跑龙套多年未果。
@@ -642,7 +641,7 @@
     <item>
         <information>
             <name>宠儿</name>
-            <type>传记</type>
+            <type>剧情 </type>
 
              <duration>PT119M</duration>
              <production>爱尔兰</production>
@@ -838,6 +837,258 @@
         <person>
             导演 : <director>冢原亚由子</director>
             主演 : <actor> 有村架纯 / 伊藤健太郎 / 波瑠 / 林遣都 / 深水元基</actor>
+        </person>
+
+    </item>
+
+    <item>
+        <information>
+            <name>无主之作</name>
+            <type>剧情</type>
+
+             <duration>PT188M</duration>
+             <production>德国</production>
+            <showDate country="Germany">2018-10-03</showDate>
+
+            剧情简介：<brief>该片由塞巴斯蒂安·科赫、汤姆·希林、葆拉·贝尔出演，源于真实事件，讲述艺术学生Kurt Barnert爱上了同学Ellie Seeband，Ellie的爸爸Carl Seeband却不喜欢他，但他们的命运仍
+            被多年前一起可怕的罪行联系在了一起。事关Barnert的身世：他是从东德逃往西德……
+                  </brief>
+           图片链接 : <poster>https://img1.doubanio.com/view/photo/m/public/p2542956997.jpg</poster>
+
+        </information>
+         电影链接：<res >https://movie.douban.com/trailer/240605/#content</res>
+         <mark>8.3</mark>
+
+        <person>
+            导演 : <director> 弗洛里安·亨克尔·冯·多纳斯马尔克</director>
+            主演 : <actor>汤姆·希林 / 塞巴斯蒂安·科赫 / 葆拉·贝尔 / 莎斯琪亚·罗森道尔 / 奥利弗·马</actor>
+        </person>
+
+    </item>
+
+    <item>
+        <information>
+            <name>寂静人生</name>
+            <type>剧情</type>
+
+             <duration>PT087M</duration>
+             <production>英国</production>
+            <showDate country="Japan">2013-09-03</showDate>
+
+            剧情简介：<brief>
+            第70届威尼斯电影节(2013)地平线单元最佳导演奖获奖作品，乌贝托·帕索里尼导演。约翰是一个普通的社会服务员，他的工作是为孤单死去的逝者寻找
+            相关亲人，而当他被告知即将被政府裁员后，他决定将最后一位死者的亲友全部找齐……
+                  </brief>
+           图片链接 : <poster>https://img3.doubanio.com/view/photo/m/public/p2198081634.jpg</poster>
+
+        </information>
+         电影链接：<res >https://movie.douban.com/trailer/160671/#content</res>
+         <mark>8.7</mark>
+
+        <person>
+            导演 : <director> 乌贝托·帕索里尼</director>
+            主演 : <actor>埃迪·马森 / 琼安·弗洛加特 / Karen Drury / 安德鲁·巴肯 / 布隆森·韦伯</actor>
+        </person>
+
+    </item>
+
+    <item>
+        <information>
+            <name>独孤：倒回</name>
+            <type>动作</type>
+
+             <duration>PT200M</duration>
+             <production>韩国</production>
+            <showDate country="Korea">2018-09-07</showDate>
+
+            剧情简介：<brief>吴世勋将在片中出演主角姜赫，该片将有80%的动作戏，将由电影《恶女》的武术导演参与制作，《
+            恶女》的副导演崔恩重也将执导此片。
+　　《独孤：倒回》改编自同名人气网漫，讲述了创下大型事故后在街头徘徊的阿赫、
+            摔跤选手出身的泰镇以及试图摆脱混混圈子的钟日这三个男人之间的友情。
+                  </brief>
+           图片链接 : <poster>https://img3.doubanio.com/view/photo/m/public/p2533091683.jpg</poster>
+
+        </information>
+         电影链接：<res >https://www.wandouys.com/video/52422.html</res>
+         <mark>8.3</mark>
+
+        <person>
+            导演 : <director> 崔恩重</director>
+            主演 : <actor> 吴世勋 / 姜美娜 / 李济延 / 金熙镇 / 姜多贤 </actor>
+        </person>
+
+    </item>
+
+    <item>
+        <information>
+            <name>豆满江</name>
+            <type>剧情</type>
+
+             <duration>PT089M</duration>
+             <production>韩国</production>
+            <showDate country="Korea">2011-03-17</showDate>
+
+            剧情简介：<brief>
+            电影《豆满江》描述了从朝鲜偷渡图们江来到中国边境小村庄（吉林省图们市江沿乡新田村）的少年脱北者的故事。豆满江，在中国被称为图们江，位于中朝边界。影片主人公是12岁的少年昌浩，他有个哑巴姐姐顺熙、年迈的爷爷以及远在韩国挣钱的母亲，父亲则在当年为救落水的姐姐而在豆满江里丧生。昌浩与一位过河而来的热爱足球的朝鲜少年郑真成了朋友。
+                  </brief>
+           图片链接 : <poster>https://img3.doubanio.com/view/photo/m/public/p2478308805.jpg</poster>
+
+        </information>
+         电影链接：<res>https://www.wandouys.com/video/58111.html</res>
+         <mark>8.1</mark>
+
+        <person>
+            导演 : <director> 张律</director>
+            主演 : <actor>崔健 / 尹兰 / 李京霖 / 林今龙 / 金铉盛</actor>
+        </person>
+
+    </item>
+
+    <item>
+        <information>
+            <name>悠哉日常大王剧场版：假期活动</name>
+            <type>喜剧 </type>
+
+             <duration>PT071M</duration>
+             <production>日本</production>
+            <showDate country="Japan">2018-08-25</showDate>
+
+            剧情简介：<brief>旭丘分校的学生只有5人。即使学年和性格都各不相同，也总是在四季变换中一同享受着乡村生活。某天，旭丘分校的众人在百货店的抽奖中抽到了特等奖冲绳旅行券。于是，大家利用暑假时间前往冲绳…
+                  </brief>
+           图片链接 : <poster>https://img1.doubanio.com/view/photo/m/public/p2549397547.jpg</poster>
+
+        </information>
+         电影链接：<res >https://movie.douban.com/trailer/234097/#content</res>
+         <mark>8.7</mark>
+
+        <person>
+            导演 : <director> 川面真也</director>
+            主演 : <actor>:小岩井小鸟 / 村川梨衣 / 佐仓绫音 / 阿澄佳奈 / 名塚佳织</actor>
+        </person>
+
+    </item>
+
+    <item>
+        <information>
+            <name>莫扎特</name>
+            <type>歌舞</type>
+
+             <duration>PT150M</duration>
+             <production>奥地利</production>
+            <showDate country=" Austria">2015-12-04</showDate>
+
+            剧情简介：<brief>
+            音乐剧莫扎特是一部德奥音乐剧，由Michael Kunze作词，Sylvester Levay作曲，是一部描述Wolfgang Amadeus Mozart的德语音乐剧。全剧共有53首歌曲，分为两幕进行演出，其中包含了流行、摇滚和古典等各种风格的歌曲。 这部音乐剧概述了Wolfgang Amadeus Mozart的痛苦而又短暂的一生，突出了他对艺术的极致追求和对自由的无限渴求，也描绘出由此在他生活中与父亲和Colloredoqin亲王产生的冲突。这部音乐剧最特别的设定是，在舞台上让Mozart和一个孩子Amadè同时出现, 他就是小时候的Mozart, 永无停止地在写新的交响乐，最后也是他终结了Mozart的生命。
+                  </brief>
+           图片链接 : <poster>https://img1.doubanio.com/view/photo/m/public/p2510734167.jpg</poster>
+
+        </information>
+         电影链接：<res >https://www.bilibili.com/video/av9124317/</res>
+         <mark>9.5</mark>
+
+        <person>
+            导演 : <director> Harry Kupfer</director>
+            主演 : <actor>Oedo Kuipers / Thomas Borchert / Mark Seibert / Franziska Schuster</actor>
+        </person>
+
+    </item>
+
+    <item>
+        <information>
+            <name>血观音</name>
+            <type>剧情</type>
+
+             <duration>PT112M</duration>
+             <production>中国</production>
+            <showDate country="China">2017-11-24</showDate>
+
+            剧情简介：<brief>
+            血观音》描述在女人组成的棠府里，住着3位不同世代但一样懂人心的女性，由棠夫人（惠英红饰）主持大局，穿梭权贵间，靠着高超手腕与柔软身段，在复杂的政商关系中生存取利；个性如刺猬般的大女儿棠宁（吴可熙饰）为求母亲肯定，勉力配合；乖巧的小女儿棠真（文淇饰）多半静静观察，唯母命是从。直到某天，棠家亲密友人惨遭灭门事件爆发，三人各自被牵扯其中，一向以大局为重的棠夫人，为了守护一切，费尽心机，却让三人走向不同的命运。
+                  </brief>
+           图片链接 : <poster>https://img3.doubanio.com/view/photo/m/public/p2518132366.jpg</poster>
+
+        </information>
+         电影链接：<res >https://movie.douban.com/trailer/222851/#content</res>
+         <mark>8.3</mark>
+
+        <person>
+            导演 : <director> 杨雅喆</director>
+            主演 : <actor>: 惠英红 / 吴可熙 / 文淇 / 柯佳嬿 / 陈莎莉</actor>
+        </person>
+
+    </item>
+
+    <item>
+        <information>
+            <name>大佛普拉斯</name>
+            <type>剧情</type>
+
+             <duration>PT102M</duration>
+             <production>中国</production>
+            <showDate country="China">2017-10-13</showDate>
+
+            剧情简介：<brief>
+            菜埔（庄益增 饰）是一家雕塑厂的夜间保安，家中有一位重病的老母亲需要照顾。肚财（陈竹昇 饰）是菜埔唯一的朋友，菜埔经常在值夜班的时候把肚财叫过来和他作伴。一天，两人突发奇想决定看一看菜埔的老板黄启文（戴立忍 饰）的行车记录仪里记录了哪些影像，希望向来风流的老板能够贡献出一些精彩的片段以解两个独身男人内心里的寂寞之苦。
+                  </brief>
+           图片链接 : <poster>https://img3.doubanio.com/view/photo/m/public/p2498599511.jpg</poster>
+
+        </information>
+         电影链接：<res >https://movie.douban.com/trailer/222402/#content</res>
+         <mark>8.7</mark>
+
+        <person>
+            导演 : <director> 黄信尧</director>
+            主演 : <actor>庄益增 / 陈竹昇 / 戴立忍 / 张少怀 / 陈以</actor>
+        </person>
+
+    </item>
+
+    <item>
+        <information>
+            <name>燃烧</name>
+            <type>剧情</type>
+
+             <duration>PT148M</duration>
+             <production>韩国</production>
+            <showDate country="Korea">2018-05-17</showDate>
+
+            剧情简介：<brief>
+            目标成为作家的青年李钟秀（刘亚仁 饰），平日里靠兼职养活自己。经营畜牧业的父亲不谙人情，官司缠身，迫使钟秀又要为了搭救父亲而四处奔走。这一日，钟秀在某大型卖场重逢了当年的同学申惠美（全钟淑 饰）。惠美计划近期前往非洲旅行，于是拜托钟秀照看爱猫Boil。不久后惠美回国，与之一同下飞机的还有名叫本（史蒂文·元 饰）的男子。本驾驶保时捷，居住在高级公寓内，优哉游哉，不见工作，四处玩乐，和钟秀相比有如天上地下。不知为何，本走入平民钟秀和惠美的生活，更向新朋友讲述了他奇特的癖好。在钟秀家小聚的那个晚上过后，惠美仿佛人间蒸发了一般无影无踪……
+                  </brief>
+           图片链接 : <poster>https://img1.doubanio.com/view/photo/m/public/p2520095279.jpg</poster>
+
+        </information>
+         电影链接：<res >https://movie.douban.com/trailer/240367/#content</res>
+         <mark>7.9</mark>
+
+        <person>
+            导演 : <director> 李沧东</director>
+            主演 : <actor> 刘亚仁 / 史蒂文·元 / 全钟瑞 / 金秀京 / 崔承浩 </actor>
+        </person>
+
+    </item>
+
+    <item>
+        <information>
+            <name>昆池岩</name>
+            <type>恐怖</type>
+
+             <duration>PT094M</duration>
+             <production>韩语</production>
+            <showDate country="Korea">2018-03-28</showDate>
+
+            剧情简介：<brief>
+            原名南营神经精神医院的昆池岩精神病院，最早建立于20世纪60年代。在特殊的时代它曾经历了无比的辉煌，然而更为人熟知的则是该医院身上所发生的各类恐怖事件。现如今，早已废弃的昆池岩医院被CNN票选为全球七大恐怖之地之一，更由此吸引无数寻求刺激的青年男女来此探险。三个月前，两名青少年来此探险，结果在直播中遭遇诡异事件，下落不明。此后，《恐怖世代》剧组在魏河俊的召集下，网罗了吴雅妍、朴智贤、夏洛特（文艺媛 饰）、李丞旭、朴成勋、刘帝允等人前往昆池岩，更试图打开备受诅咒的402室。
+                  </brief>
+           图片链接 : <poster>https://img3.doubanio.com/view/photo/m/public/p2513360824.jpg</poster>
+
+        </information>
+         电影链接：<res >https://movie.douban.com/trailer/229352/#content</res>
+         <mark>6.1</mark>
+
+        <person>
+            导演 : <director> 郑凡植</director>
+            主演 : <actor> 魏河俊 / 朴智炫 / 吴雅妍 / 文艺媛 / 朴成</actor>
         </person>
 
     </item>

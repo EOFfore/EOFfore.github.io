@@ -24,6 +24,7 @@
       </tr>
             <xsl:for-each select="//information">
                 <xsl:sort select="type"/>
+
                 <tr>
                     <xsl:choose>
           <xsl:when test="production ='中国'" >
@@ -42,7 +43,9 @@
           </xsl:otherwise>
 
         </xsl:choose>
+
  <td><xsl:value-of select="type"/></td>
+                    <!--<td><xsl:value-of select="contains(type,'动作')"/><td>-->
                 </tr>
             </xsl:for-each>
         </table>
@@ -67,10 +70,7 @@
                <td><xsl:value-of select="mark"/></td>
                  <!--属性展示
                     <td>
-
                     <xsl:value-of select="information/showDate[@country]/@country" />
-
-
                     </td>
                     -->
                 </tr>
