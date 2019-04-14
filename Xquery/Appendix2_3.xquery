@@ -3,9 +3,9 @@ xquery version "3.1";
 declare namespace ext="http://www.altova.com/xslt-extensions";
 
 
-(:æ‰¾éƒ‘æºæ¼”çš„ç”µå½±:)
+(:_‰¾éƒ‘_ºæ_”_š„_”µå½±:)
 
-for $x in doc("tempData.xml")/film/item
-where contains(string($x/person/actor),"éƒ‘æº")
+for $x in doc("../Data/tempData.xml")/film/item
+where contains(string($x/person/actor),"Ö£âı")
 order by $x/information/name descending
 return $x
