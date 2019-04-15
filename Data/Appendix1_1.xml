@@ -1,3 +1,4 @@
+<film>
 <item>
         <information>
             <name>调音师</name>
@@ -111,7 +112,8 @@
             主演 : <actor> 本·阿弗莱克 / 查理·汉纳姆 / 佩德罗·帕斯卡 / 奥斯卡·伊萨克 / 亚德里亚·霍纳</actor>
         </person>
 
-    </item><item>
+    </item>
+<item>
         <information>
             <name>驯龙高手3</name>
             <type>奇幻</type>
@@ -135,7 +137,8 @@
 </actor>
         </person>
 
-    </item><item>
+    </item>
+<item>
         <information>
             <name>绿皮书</name>
             <type>剧情</type>
@@ -1028,3 +1031,4 @@
         </person>
 
     </item>
+</film>
