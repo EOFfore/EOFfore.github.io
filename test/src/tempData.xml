@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<?xml-stylesheet type="text/xsl" href="data_test.xsl"?>
+<film>
+    <item>
+        <information>
+            <name>雷霆沙赞</name>
+            <type>动作 奇幻 冒险</type>
+            <duration>PT132M</duration>
+            <production>美国</production>
+            <showDate country="China">2019-04-05</showDate>
+            <brief>每个人身体里都潜藏着一位超级英雄，只需要一点魔力便能将其释放。14岁的街头小混混比利·巴特森(亚瑟·安其饰)通过大喊“沙赞”这个词，就可以变身为成年超级英雄沙赞(扎克瑞·莱维饰)，这是一种来自于古老巫师的恩惠。如神一般的肌肉身体里，仍存有一颗孩子心，他开心地与超能力为伴。他能飞吗？他能X光透视吗？他能从手中射出闪电吗？他能不用再考试了吗？沙赞以孩子般轻率又鲁莽的方式，开始测试他的能力极限。但他需要尽快掌握这些力量，以对抗塞迪斯·希瓦纳博士控制的邪恶势力。</brief>
+            <poster>https://eoffore.github.io/Data/poster/雷霆沙赞.jpg</poster>
+        </information>
+        <res>https://movie.douban.com/trailer/245364/#content</res>
+        <mark>6.6</mark>
+        <person>
+            <director>大卫·F·桑德伯格</director>
+            <actor>扎克瑞·莱维 / 马克·斯特朗 / 亚瑟·安其 / 杰克·迪伦·格雷泽 / 杰曼·翰苏</actor>
+        </person>
+    </item>
+
+
+     <item>
+        <information>
+            <name>欲念游戏</name>
+            <type>科幻 悬疑 犯罪</type>
+            <duration>PT109M</duration>
+            <production>中国大陆</production>
+            <showDate country="China">2019-04-12</showDate>
+            <brief>讲述在2020年，一代叱咤智能科技领域的风云人物郭实（郭涛饰），在经历丧女之痛后决定远离尘嚣，终日与智能机器人相伴。但一次意外的发生，郭实莫名沦为“杀人逃犯”，并一步步落入对方所设的陷阱中。为证清白，郭实重拾“化蝶系统”，与爱徒飞凡（姜潮饰）和机械发烧友萌萌（张子枫饰）联手追查真凶。在探寻真相的过程中，郭实发现妻子宁雪（梅婷饰）和好兄弟老查（范伟饰）与此事有着千丝万缕的联系，但逐渐被视觉致幻的他开始难辨真假虚实，一场有关科技的烧脑战役呼之欲开。</brief>
+            <poster>https://eoffore.github.io/Data/poster/YNYX.jpg</poster>
+        </information>
+        <res>https://movie.douban.com/trailer/245362/#content</res>
+        <mark>3.3</mark>
+        <person>
+            <director>郭涛</director>
+            <actor>郭涛 / 张子枫 / 姜潮 / 梅婷 / 范伟</actor>
+        </person>
+    </item>
+
+     <item>
+        <information>
+            <name>祈祷落幕时</name>
+            <type>剧情 悬疑</type>
+            <duration>PT119M</duration>
+            <production>日本</production>
+            <showDate country="China"></showDate>
+            <brief>位于东京都葛饰区的一座公寓内，一具高度腐烂的尸体被人发现。经警方初步查明，死者是来自滋贺县的押谷道子，她的死亡实属他杀。警视厅搜查一课刑警松宫（沟端淳平 饰）调查发现，押谷此次上都是为了拜访并观看学生时代的好友浅居博美（松岛菜菜子 饰）的舞台剧的。虽然浅居有充分的不在场证明，不过她和加贺恭一郎（阿部宽 饰）的合影依然引起松宫的注意。与此同时，在道子遇害公寓的附近，一具焚烧后的尸体被人发现。现场的一件遗物令加贺激动万分，因为这与他多年未曾谋面的母亲有着千丝万缕的关系。两起案件，以及失踪的人，将浅居和加贺再度连接在一起…… </brief>
+            <poster>https://eoffore.github.io/Data/poster/祈祷落幕时.jpg</poster>
+        </information>
+        <res>https://movie.douban.com/trailer/245610/#content</res>
+        <mark>8.0</mark>
+        <person>
+            <director>福泽克雄</director>
+            <actor>阿部宽 / 松岛菜菜子 / 沟端淳平 / 田中丽奈 / 木村绿子</actor>
+        </person>
+    </item>
+
+     <item>
+        <information>
+            <name>最佳男友进化论</name>
+            <type>喜剧 爱情</type>
+            <duration>PT090M</duration>
+            <production>香港</production>
+            <showDate country="China">2019-04-12</showDate>
+            <brief>情场老司机范凡（郑恺 饰）在机缘巧合之下决定开办一个“男神训练营”，用自己独到的恋爱心得助那些在爱情里苦求不得的单身狗们进化成“最佳男友”。一场婚礼上的“实践教学”让伴娘女神（张雨绮 饰）被套路之下的真心打动，几个徒弟都拥有了梦寐以求的爱情。但作为“专家”范凡自己的感情生活却是剪不断理还乱……</brief>
+            <poster>https://eoffore.github.io/Data/poster/ZJNYJHL.jpg</poster>
+        </information>
+        <res>https://movie.douban.com/trailer/245322/#content</res>
+        <mark>0</mark>
+        <person>
+            <director>林子聪</director>
+            <actor>郑恺 / 张雨绮 / 徐冬冬 / 方力申 / 林子聪</actor>
+        </person>
+    </item>
+
+     <item>
+        <information>
+            <name>密室逃生</name>
+            <type>悬疑 惊悚</type>
+            <duration>PT100M</duration>
+            <production>美国</production>
+            <showDate country="China">2019-01-18</showDate>
+            <brief>六位身份各异的陌生人，为赢取高额奖金，在神秘盒子的指引下受邀参与世界顶级密室逃脱游戏。谁知密室内布局精良机关重重，陷阱遍布杀机暗藏。是刺激游戏，还是博命赌局？谁在背后操控这一切？谁能够成功破解谜局，逃出生天？</brief>
+            <poster>https://eoffore.github.io/Data/poster/MSTS.jpg</poster>
+        </information>
+        <res>https://movie.douban.com/trailer/241888/#content</res>
+        <mark>7.3</mark>
+        <person>
+            <director>亚当·罗比特尔</director>
+            <actor>泰勒·拉塞尔 / 洛根·米勒 / 黛博拉·安沃尔 / 泰勒·莱伯恩 / 杰·埃利斯</actor>
+        </person>
+    </item>
+</film>

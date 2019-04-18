@@ -20,8 +20,6 @@ return
  
 for $x in $itemList[position() lt 5]
 return $x
-
-
 }
 
 {
@@ -31,8 +29,6 @@ return $y
 }
 
 </film>
-
-
 
 (:for $x in doc("data_test1.xml")/film/item
 where $x
